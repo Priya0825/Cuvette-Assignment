@@ -71,7 +71,7 @@ https://public.tableau.com/views/CuvetteSection3/Dashboard1?:language=en-US&publ
 
 ## ✅ Section 5: Bonus (Optional)
 
-**Included in**: `Bonus_Response.txt`  
+**Included in**: `Cuvette - Section 5.docx`  
 - How I’d support students struggling with concepts or deadlines  
 - Breaking down “Gradient Descent” in beginner-friendly terms
 
@@ -81,7 +81,7 @@ https://public.tableau.com/views/CuvetteSection3/Dashboard1?:language=en-US&publ
 
 **Option Chosen**: [Prompt Engineering or AI Tool]
 
-**Included in**: `AI_Prompt_or_Tool_Use.txt`  
+**Included in**: `Cuvette - section 6.docx`  
 - Prompt(s) used  
 - Output  
 - Reflection on the experience
